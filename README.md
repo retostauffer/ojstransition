@@ -1,7 +1,7 @@
 ## Transition to new editorial system
 
 In September 2021, the [Journal of Statistical Software][jss] transitions
-to version 3 of the [Open Journal System][ojs] after using version as
+to version 3 of the [Open Journal System][ojs] after using version 2 as
 the editorial management system for a number of years.
 
 Such transitions usually bring not only many nice and useful new
